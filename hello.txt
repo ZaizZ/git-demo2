@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dafdsafdsafds 
 fsdafdasfsdafsda
 fsadfdsafdsafsd 33333333
 dafdsafdsafdso 111111111 
+=======
+dafdsafdsafdso  
+>>>>>>> test
 fsdafdasfsdafsda 22222222
